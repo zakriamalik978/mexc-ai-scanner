@@ -1,2 +1,2 @@
 # mexc-ai-scanner
-MEXC and CMC AI Scout
+my trading system
